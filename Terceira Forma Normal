@@ -1,0 +1,5 @@
+#3FN
+-  Um tabela deve estar na 2FN
+- Nenhuma coluna não-chave pode depender de outra coluna não-chave
+
+Exemplo: Relação Estado -> Cidade

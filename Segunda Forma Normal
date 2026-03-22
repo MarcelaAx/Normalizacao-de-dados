@@ -1,0 +1,5 @@
+#2FN
+- Estabelece que uma tabela deve estar na 1FN.
+- Todos os atributos não chave devem depender totalente da chabe primária.
+
+OBS: se sua tabela tem uma chave primária sinples não existe a possibilidade de termos deéndência parcial e por tanto ela já se encontra na 2FN.

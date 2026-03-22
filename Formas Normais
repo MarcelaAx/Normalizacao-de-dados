@@ -1,0 +1,4 @@
+#1FN: Atomonicidade de dados
+- Estabelece que cada valor em uma tabela deve ser atômico, ou seja, indivisível. Nenhum campo deve conter múltiplos valores ou listas.
+Por exemplo, um campo endereco com múltiplos valores como rua, n[umero, cidade e estado.
+Para atingir a 1FN, precisa dividir o campo endereco em colunas separadas. 
